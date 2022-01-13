@@ -14,7 +14,7 @@
 
   <a name='usefaq'></a>
   ## Usage
-  In the root directory, enter your MYSQL credentials into the .env file. Create the table by running "source db/schema.sql" into the command line. Seed the table by running the 
+  In the root directory, enter your MYSQL credentials into the .env file. Create the table by running ![GitHub Dark](source db/schema.sql) into the command line. Seed the table by running the 
   command "npm run seed".
   
   Here is a video description of how the application is used: https://watch.screencastify.com/v/30j8Z0lIlB1juT1kZPvP
