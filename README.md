@@ -15,13 +15,13 @@
   <a name='usefaq'></a>
   ## Usage
   In the root directory, enter your MYSQL credentials into the .env file. Create the table by running `source db/schema.sql` into the command line. Seed the table by running the 
-  command "npm run seed".
+  command `npm run seed`.
   
   Here is a video description of how the application is used: https://watch.screencastify.com/v/30j8Z0lIlB1juT1kZPvP
 
   <a name='install'></a>
   ## Installation
-  Clone the source files using "git clone <url>" and use "npm i" to install the dependencies 
+  Clone the source files using `git clone <url>` and use `npm i` to install the dependencies 
 
 
   <a name='license'></a>
