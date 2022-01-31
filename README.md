@@ -10,14 +10,16 @@
 
   <a name='description'></a>
   ## Description
-  E-commerce backend that utilizes MYSQL and Sequelize to create a products database with API routes to provide the CRUD functionality.
+  AS A developer who writes about tech
+  I WANT a CMS-style blog site
+  SO THAT I can publish articles, blog posts, and my thoughts and opinions
+
 
   <a name='usefaq'></a>
   ## Usage
-  In the root directory, enter your MYSQL credentials into the .env file. Create the table by running `source db/schema.sql` into the command line. Seed the table by running the 
-  command `npm run seed`.
+  In the root directory, enter your MYSQL credentials into the .env file. Run `nodemon server` to start the server and then in the browser type `localhost:3001` to view the 
+  application.
   
-  Here is a video description of how the application is used: https://watch.screencastify.com/v/30j8Z0lIlB1juT1kZPvP
 
   <a name='install'></a>
   ## Installation
